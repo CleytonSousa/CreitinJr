@@ -1,0 +1,11 @@
+#ignorar node modules
+node_modules
+
+#ignorar configurações
+config.json
+
+#ignorar arquivo de backup em zip
+BotCreitin.zip
+
+#ignorar package lock
+package-lock.json
